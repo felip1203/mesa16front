@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.desconto {
+    height: 23px;
+    width: 100%;
+    background-color: #1CD1B0;
+}
+
+.promocao {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 27px;
+}
+
+.nome-logo-loja {
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: #00669F;
+    align-items: center;
+}
+
+h1 {
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+img {
+    margin-left: 27px;
+}
+
+main {
+    text-align: center;
+    width: 100%;
+    margin: 0px 0;
+    height: 82vh;
+}
+
+h2 {
+font-size: 45px;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+margin-right: 450px;
+padding: 40px;
+}
+
+label {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    width: 620px;
+    height: 60px;
+}
+
+textarea {
+    width: 620px;
+    height: 251px;
+}
+
+form {
+    margin-top: vh;
+
+}
+
+.botao {
+    border: none;
+    margin: 0 auto;
+    width: 614px;
+    height: 53px;
+    background-color: #1CD1B0;
+    border-radius: 20px;
+    align-items: center;
+}
+
+button {
+    border: none;
+    padding: 20px 100px;
+    margin: 20px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+
+.rodape {
+    height: 61px;
+    width: 100%;
+    background-color: #00669F;
+    align-items: center;
+}
+
+.rodape-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.registra-legend {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
